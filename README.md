@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="500" src="https://p4.wallpaperbetter.com/wallpaper/486/353/167/cityscape-new-york-city-manhattan-night-wallpaper-preview.jpg">
 <h1 align="center">Hi 👋, I'm Claudio Ariel Kenny</h1>
 <h3 align="center">
-I am an Electrocine and Data Analytics Engineer who meets his goals, passionate about solving problems, always looking for new challenges. As a professional I interpret the world of data, it allows me to explain the past by understanding the present to make intelligent decisions for the future and thus respond to customer needs. Next to be Data Science and I'm going for more!.-</h3>
+I am an Electronics Engineer, Data Science y Data Analytics who meets his goals, passionate about solving problems, always looking for new challenges. As a professional I interpret the world of data, it allows me to explain the past by understanding the present to make intelligent decisions for the future and thus respond to customer needs. I'm going for more!.-</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cakenny&label=Profile%20views&color=0e75b6&style=flat" alt="cakenny" /> </p>
